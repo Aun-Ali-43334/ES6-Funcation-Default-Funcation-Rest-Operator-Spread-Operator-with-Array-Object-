@@ -68,7 +68,10 @@
 // let arr3 = [...arr1, ...arr2]
 // console.log(arr3);
 
-
+// or (My way)
+// let arr1 = ["HTML","CSS","JS"];
+// let arr2 = [...arr1,"ES6","REACT",];
+// console.log(arr2);
 
 
 // // ----------Merging of Two Objects using spread operator----------
