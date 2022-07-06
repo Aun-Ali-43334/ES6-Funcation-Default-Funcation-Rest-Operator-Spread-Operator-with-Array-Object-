@@ -96,3 +96,5 @@
 //     age : 23,
 // }
 // console.log(std2);
+
+
